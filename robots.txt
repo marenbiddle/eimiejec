@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://phahnesemi.barumpark.com/sitemap.xml
